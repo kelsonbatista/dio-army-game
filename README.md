@@ -1,3 +1,3 @@
 # dio-army-game
 
-## A game using HTML, CSS and JQuery
+A game using HTML, CSS and JQuery
